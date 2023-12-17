@@ -6,7 +6,7 @@ A/B Testing in Data Science
 <p>Novelty effect - liking of new updates for a short period by customers.</p>
 <p>Change Aversion - not liking the new update by the user.</p>
 
-var1 is product A
-var2 is product B
+<p>var1 is product A</p>
+<p>var2 is product B</p>
 
-By plotting data and hypothesis testing we can find the amount of significant change in the graph which will give us answers if its novelty effect or change aversion. This analysis will help the organization in finding if the update they have made is a good choice or not.
+<p>By plotting data and hypothesis testing we can find the amount of significant change in the graph which will give us answers if its a novelty effect or change aversion. This analysis will help the organization in finding if the update they have made is a good choice or not.</p>
