@@ -2,9 +2,9 @@
 A/B Testing in Data Science
 
 <h2>What is A/B Testing?</h2>
-It is comparing two versions of a product and for example, comparing the older and newer versions of a mobile device.
-Novelty effect - liking of new updates for a short period by customers.
-Change Aversion - not liking the new update by the user.
+<p>It is comparing two versions of a product and for example, comparing the older and newer versions of a mobile device.</p>
+<p>Novelty effect - liking of new updates for a short period by customers.</p>
+<p>Change Aversion - not liking the new update by the user.</p>
 
 var1 is product A
 var2 is product B
